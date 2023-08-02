@@ -1,4 +1,5 @@
-A bit about Code Management
+# A bit about Code Management
+
 Founded on November 12, 2022, Code Management is a store specializing in offering innovative solutions to the Discord community. We are passionate about development and believe in the power of bots to enhance and streamline the user experience on this popular platform.
 
 Our store has a unique focus on bot apps for Discord, starting with the latest apps like Node.js and Discord.js. These tools allow us to create highly personalized, eager and efficient bots capable of meeting the specific needs of each member server and each Discord.
@@ -11,4 +12,11 @@ Browse our store and discover a range of off-the-shelf bot applications, or cont
 
 Join Code Management and take your Discord community to a new level of excellence and interactivity. We look forward to being part of your success!
 
-Yours sincerely, Code Management Team
+Yours sincerely,
+Code Management Team
+<br/>
+<br/>
+
+![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
